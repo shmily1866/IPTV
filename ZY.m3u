@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="咪咕体育4K" tvg-name="咪咕足球1080" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" 
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育4K" tvg-name="咪咕精彩竞技1080" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" 
+http://[2409:8087:1a01:df::402f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育4K" tvg-name="咪咕体育1080？？" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" 
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育4K" tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" 
+//
+#EXTINF:-1,tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" 
+//
